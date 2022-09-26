@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyFirstAndroidApp</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="my_button_text" />
+    <string name="contained_button">Contained button</string>
 </resources>
